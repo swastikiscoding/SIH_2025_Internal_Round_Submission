@@ -1,4 +1,4 @@
-# PS ID - SIH25040: FloatChat - AI-Powered Conversational Interface for ARGO Ocean Data Discovery and Visualization
+# SIH25040: FloatChat - AI-Powered Conversational Interface for ARGO Ocean Data Discovery and Visualization
 
 This README provides an overview of the project, including team details, relevant links, tasks completed, tech stack, key features, and steps to run the project locally.
 
