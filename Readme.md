@@ -19,8 +19,7 @@ This README provides an overview of the project, including team details, relevan
 
 ## Project Links
 
-- **SIH Presentation:** [Final SIH Presentation](URL TO PPT UPLOADED TO GITHUB)
+- **SIH Presentation:** [Final SIH Presentation](https://github.com/swastikiscoding/SIH_2025_Internal_Round_Submission/blob/main/files/Internal_PPT_HACKNOVATERS.pdf)
 - **Video Demonstration:** [Watch Video](UNLISTED YOUTUBE LINK)
 - **Live Deployment:** [View Deployment](https://floatchat-sih-mu.vercel.app)
-- **Source Code:** [GitHub Repository](GITHUB LINK TO THE REPO)
-- **Additional Resources:** [Other Relevant Links](ANY OTHER RELEVANT LINKS)
+- **Source Code:** [GitHub Repository](https://github.com/swastikiscoding/SIH_2025_Internal_Round_Submission/tree/main/code)
