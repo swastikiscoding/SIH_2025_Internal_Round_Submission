@@ -10,12 +10,12 @@ This README provides an overview of the project, including team details, relevan
 
 **Team Members:**
 
-- **MEMBER_1** - 2024UCS1695 - [@swastikiscoding](https://github.com/swastikiscoding)
-- **MEMBER_2** - 2024UCS1521 - [@SqrtNegativOne](https://github.com/SqrtNegativOne)
-- **MEMBER_3** - 2024UCS1705 - [@DakshDagar01](https://github.com/DakshDagar01)
-- **MEMBER_4** - 2024UCA1945 - [@me-pradeep](https://github.com/me-pradeep)
-- **MEMBER_5** - 2024UCS1544 - [@Sakshi7654](https://github.com/Sakshi7654)
-- **MEMBER_6** - 2024UCS1647 - [@yashtayalcse](https://github.com/yashtayalcse)
+- **MEMBER_1** - 2024UCS1695 - [Swastik](https://github.com/swastikiscoding)
+- **MEMBER_2** - 2024UCS1521 - [Ark Malhotra](https://github.com/SqrtNegativOne)
+- **MEMBER_3** - 2024UCS1705 - [Daksh Dagar](https://github.com/DakshDagar01)
+- **MEMBER_4** - 2024UCA1945 - [Pradeep Yadav](https://github.com/me-pradeep)
+- **MEMBER_5** - 2024UCS1544 - [Sakshi Gupta](https://github.com/Sakshi7654)
+- **MEMBER_6** - 2024UCS1647 - [Yash Tayal](https://github.com/yashtayalcse)
 
 ## Project Links
 
