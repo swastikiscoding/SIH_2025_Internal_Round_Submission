@@ -1,4 +1,4 @@
-# FloatChat - FloatChat - AI-Powered Conversational Interface for ARGO Ocean Data Discovery and Visualization
+# FloatChat - AI-Powered Conversational Interface for ARGO Ocean Data Discovery and Visualization
 
 A comprehensive platform for oceanographic researchers to visualize Argo float data and interact with an AI assistant specialized in marine science.
 
